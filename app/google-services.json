@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "506017087328",
+    "firebase_url": "https://blahblah-fef48.firebaseio.com",
+    "project_id": "blahblah-fef48",
+    "storage_bucket": "blahblah-fef48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506017087328:android:394fbbd567bae3cf",
+        "android_client_info": {
+          "package_name": "com.example.muriu.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506017087328-5juumg2dle7r9r4ud0vcl8m15tog33m0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.muriu.login",
+            "certificate_hash": "aa4ab981d2c19b1b4b1c29cc55574bfcffa6c0d5"
+          }
+        },
+        {
+          "client_id": "506017087328-6lcng54bm7term54q0gjaka8diibddnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfordCz3UAJuOrw8tngjB9JfjMpYuTM40"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506017087328-6lcng54bm7term54q0gjaka8diibddnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

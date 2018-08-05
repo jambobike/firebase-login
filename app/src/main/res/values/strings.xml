@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Jambobike</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_signup">Signup</string>
+    <string name="title_activity_home">Home</string>
+    <string name="username">Username</string>
+    <string name="phone">Phone</string>
+    <string name="fname">First Name</string>
+    <string name="lname">Last Name</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="login">Login</string>
+    <string name="create">Create an Account</string>
+    <string name="title_activity_relative">relative</string>
+    <string name="title_activity_homeactivity">homeactivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
